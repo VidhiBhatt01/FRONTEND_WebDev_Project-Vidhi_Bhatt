@@ -1,4 +1,4 @@
-Click on the below link to view my File
+Click on the link to view my File
 https://replit.com/join/dzeymslk-vidhibhatt 
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
